@@ -1,4 +1,4 @@
-Write-Host "`nCe script permet de créer un certificat SSL auto-siné."
+Write-Host "`nCe script permet de créer un certificat SSL auto-signé."
 
 $instance = Read-Host "`nVeuillez choisir le nom du certificat SSL auto-signé"
 $motDePasse = Read-Host "Mot de passe à appliquer sur le certificat SSL auto-signé"
