@@ -19,7 +19,7 @@ Vous pouvez visualiser vos certificats personnels ajoutés avec ***certlm.msc***
 
     Si l'utilisation de script est désactivée pour votre système, vous pouvez le réactiver avec :
     ```powershell
-    set‐executionpolicy unrestricted
+    Set-ExecutionPolicy Unrestricted
     ```
 
 - Application d'une date d'expiration
